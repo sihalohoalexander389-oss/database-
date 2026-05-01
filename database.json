@@ -4,10 +4,29 @@
     "8478502232:AAGLIhcgtTZpsdShU3-r-v7CDz4OdVpxB5k"
   ],
   "access_control": {
+    "staf": [],
+    "mod": [],
     "own": [],
     "ceo": [],
     "pt": [],
-    "res": [],
-    "staf": []
-  }
+    "res": []
+  },
+  "hierarchy_levels": {
+    "staf": 6,
+    "mod": 5,
+    "own": 4,
+    "ceo": 3,
+    "pt": 2,
+    "res": 1
+  },
+  "role_permissions": {
+    "staf": ["addstaf", "delstaf", "addmod", "delmod", "addown", "delown", "addceo", "delceo", "addpt", "delpt", "addres", "delres", "addtoken", "deltoken"],
+    "mod": ["addown", "delown", "addceo", "delceo", "addpt", "delpt", "addres", "delres", "addtoken", "deltoken"],
+    "own": ["addceo", "delceo", "addpt", "delpt", "addres", "delres", "addtoken", "deltoken"],
+    "ceo": ["addpt", "delpt", "addres", "delres", "addtoken", "deltoken"],
+    "pt": ["addres", "delres"],
+    "res": []
+  },
+  "last_updated": "2025-01-15T10:30:00.000Z",
+  "version": "2.1"
 }
