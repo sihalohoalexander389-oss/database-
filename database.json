@@ -1,79 +1,12 @@
 {
-  "tokens": [
-    "8478502232:AAGLIhcgtTZpsdShU3-r-v7CDz4OdVpxB5k",
-    "8725531884:AAFGjPvBs7SdrLKYRcjFHkaSv8lJOpk95Mk"
-  ],
+  "tokens": [],
+  "usernames": {},
   "access_control": {
     "staf": [],
     "mod": [],
     "own": [],
     "ceo": [],
     "pt": [],
-    "res": [
-      "1102295941"
-    ]
-  },
-  "hierarchy_levels": {
-    "staf": 6,
-    "mod": 5,
-    "own": 4,
-    "ceo": 3,
-    "pt": 2,
-    "res": 1
-  },
-  "role_permissions": {
-    "staf": [
-      "addstaf",
-      "delstaf",
-      "addmod",
-      "delmod",
-      "addown",
-      "delown",
-      "addceo",
-      "delceo",
-      "addpt",
-      "delpt",
-      "addres",
-      "delres",
-      "addtoken",
-      "deltoken"
-    ],
-    "mod": [
-      "addown",
-      "delown",
-      "addceo",
-      "delceo",
-      "addpt",
-      "delpt",
-      "addres",
-      "delres",
-      "addtoken",
-      "deltoken"
-    ],
-    "own": [
-      "addceo",
-      "delceo",
-      "addpt",
-      "delpt",
-      "addres",
-      "delres",
-      "addtoken",
-      "deltoken"
-    ],
-    "ceo": [
-      "addpt",
-      "delpt",
-      "addres",
-      "delres",
-      "addtoken",
-      "deltoken"
-    ],
-    "pt": [
-      "addres",
-      "delres"
-    ],
     "res": []
-  },
-  "last_updated": "2025-01-15T10:30:00.000Z",
-  "version": "2.1"
+  }
 }
