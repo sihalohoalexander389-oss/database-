@@ -1,8 +1,7 @@
 {
   "tokens": [],
   "usernames": {
-    "6513617299": "ALXANDER",
-    "8354736824": "FD1GZI"
+    "6513617299": "ALXANDER"
   },
   "access_control": {
     "staf": [],
@@ -10,8 +9,6 @@
     "own": [],
     "ceo": [],
     "pt": [],
-    "res": [
-      "8354736824"
-    ]
+    "res": []
   }
 }
