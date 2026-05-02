@@ -1,12 +1,27 @@
 {
-  "tokens": [],
-  "usernames": {},
+  "tokens": [
+    "8777153747:AAFlcMGhw34m6wwlEFVaWjtbhI6HKWX-BGc"
+  ],
+  "usernames": {
+    "6513617299": "ALXANDER",
+    "8354736824": "AFDK42",
+    "7418529630": "X5TEAM",
+    "8529637410": "CEO01",
+    "9876543210": "MOD01",
+    "1234567890": "STAFF01"
+  },
   "access_control": {
-    "staf": [],
-    "mod": [],
-    "own": [],
-    "ceo": [],
-    "pt": [],
+    "staf": ["6513617299", "1234567890"],
+    "mod": ["9876543210"],
+    "own": ["8529637410"],
+    "ceo": ["7418529630"],
+    "pt": ["8354736824"],
     "res": []
+  },
+  "developer": {
+    "username": "ALXANDER",
+    "id": "6513617299",
+    "role": "developer",
+    "access_level": 99
   }
 }
