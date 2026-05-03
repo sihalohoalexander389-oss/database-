@@ -1,14 +1,14 @@
 {
-  "tokens": [],
+  "tokens": [
+    "7872804367:AAGL3BmNmsTkUvDnHZk3E-mkPq35sJlZ1pc"
+  ],
   "usernames": {
     "6513617299": "ALXANDER",
     "8354736824": "28W753"
   },
   "access_control": {
     "staf": [],
-    "mod": [
-      "8354736824"
-    ],
+    "mod": ["8354736824"],
     "own": [],
     "ceo": [],
     "pt": [],
